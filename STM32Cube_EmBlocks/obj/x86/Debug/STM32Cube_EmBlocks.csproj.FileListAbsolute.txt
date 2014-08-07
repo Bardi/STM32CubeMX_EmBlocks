@@ -1,0 +1,7 @@
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\bin\Debug\STM32Cube_EmBlocks.exe
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\bin\Debug\STM32Cube_EmBlocks.pdb
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\obj\x86\Debug\STM32Cube_EmBlocks.Form1.resources
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\obj\x86\Debug\STM32Cube_EmBlocks.Properties.Resources.resources
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\obj\x86\Debug\STM32Cube_EmBlocks.csproj.GenerateResource.Cache
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\obj\x86\Debug\STM32Cube_EmBlocks.exe
+c:\users\bardia\documents\visual studio 2010\Projects\STM32Cube_EmBlocks\STM32Cube_EmBlocks\obj\x86\Debug\STM32Cube_EmBlocks.pdb
